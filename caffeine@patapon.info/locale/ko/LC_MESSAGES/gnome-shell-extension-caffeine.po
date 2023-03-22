@@ -17,7 +17,7 @@ msgstr ""
 
 #: extension.js:102
 msgid "Caffeine timer"
-msgstr ""
+msgstr "카페인 타이머"
 
 #: extension.js:218
 msgid "Infinite"
@@ -25,21 +25,21 @@ msgstr ""
 
 #: extension.js:753
 msgid "Caffeine enabled"
-msgstr ""
+msgstr "카페인을 활성화합니다"
 
 #: extension.js:755
 #, fuzzy
 msgid "Night Light paused"
-msgstr "야간 모드를 멈춥니"
+msgstr "야간 모드 일시정지"
 
 #: extension.js:760
 msgid "Caffeine disabled"
-msgstr ""
+msgstr "카페인을 비활성화합니다"
 
 #: extension.js:762
 #, fuzzy
 msgid "Night Light resumed"
-msgstr "야간 모드를 다시 켭니"
+msgstr "야간 모드를 다시 켬"
 
 #: preferences/appsPage.js:29
 msgid "Running"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: preferences/appsPage.js:38
 msgid "Apps"
-msgstr "프로그램"
+msgstr "앱"
 
 #: preferences/appsPage.js:49
 msgid "Trigger mode"
@@ -64,20 +64,20 @@ msgstr ""
 #: preferences/appsPage.js:58
 #, fuzzy
 msgid "Apps trigger Caffeine mode"
-msgstr "카페인을 제어할 프로그램"
+msgstr "카페인 모드를 제어할 앱"
 
 #: preferences/appsPage.js:59
 #, fuzzy
 msgid "Choose the way apps will trigger Caffeine"
-msgstr "카페인을 제어할 프로그램"
+msgstr "카페인을 제어할 앱 선택"
 
 #: preferences/appsPage.js:73
 msgid "Add"
-msgstr ""
+msgstr "추가"
 
 #: preferences/appsPage.js:77
 msgid "Apps that trigger Caffeine"
-msgstr "카페인을 제어할 프로그램"
+msgstr "카페인을 제어할 앱"
 
 #: preferences/displayPage.js:32 preferences/displayPage.js:42
 msgid "Display"
@@ -132,7 +132,7 @@ msgstr ""
 
 #: preferences/generalPage.js:32
 msgid "For apps on list"
-msgstr "목록에 있는 프로그램만"
+msgstr "목록에 있는 앱만"
 
 #: preferences/generalPage.js:47
 msgid "General"
@@ -140,15 +140,15 @@ msgstr "일반"
 
 #: preferences/generalPage.js:57
 msgid "Behavior"
-msgstr ""
+msgstr "동작"
 
 #: preferences/generalPage.js:66
 msgid "Enable for fullscreen apps"
-msgstr "전체 화면 프로그램에서 활성화"
+msgstr "전체 화면 앱에서 활성화"
 
 #: preferences/generalPage.js:67
 msgid "Automatically enable when an app enters fullscreen mode"
-msgstr "전체 화면 모드에 진입한 프로그램을 사용할 시 자동으로 활성화합니다."
+msgstr "전체 화면 모드에 진입한 앱을 사용할 시 자동으로 활성화합니다."
 
 #: preferences/generalPage.js:78
 msgid "Remember state"
@@ -178,7 +178,7 @@ msgstr "카페인을 켜고 끌 때마다 알림을 표시합니다."
 
 #: preferences/generalPage.js:118
 msgid "Timer"
-msgstr ""
+msgstr "타이머"
 
 #: preferences/generalPage.js:123
 msgid "Durations"
@@ -186,7 +186,7 @@ msgstr ""
 
 #: preferences/generalPage.js:167
 msgid "Shortcut"
-msgstr ""
+msgstr "바로 가기"
 
 #: preferences/generalPage.js:175
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:92
@@ -203,7 +203,7 @@ msgstr ""
 
 #: preferences/generalPage.js:217
 msgid " minutes"
-msgstr ""
+msgstr " 분"
 
 #: preferences/generalPage.js:264 preferences/generalPage.js:296
 msgid "New accelerator…"
@@ -211,17 +211,17 @@ msgstr ""
 
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:22
 msgid "Application list"
-msgstr "프로그램 목록"
+msgstr "앱 목록"
 
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:23
 msgid ""
 "A list of strings, each containing an application id (desktop file name)"
-msgstr "프로그램 ID 같은 문자열을 포함한 목록"
+msgstr "앱 ID 같은 문자열을 포함한 목록"
 
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:27
 #, fuzzy
 msgid "Store caffeine toggle state"
-msgstr "카페인 사용자 상태를 저장"
+msgstr "카페인 토글 상태를 저장"
 
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:32
 msgid "Store caffeine user state"
@@ -263,17 +263,17 @@ msgstr "카페인을 켜고 끌 때마다 알림 표시"
 
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:67
 msgid "Show timer"
-msgstr ""
+msgstr "타이머 표시"
 
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:68
 #, fuzzy
 msgid "Show timer when enabled/disabled"
-msgstr "카페인을 켜고 끌 때마다 알림 표시"
+msgstr "카페인을 켜고 끌 때마다 타이머 표시"
 
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:72
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:73
 msgid "Enable when a fullscreen application is running"
-msgstr "전체 화면 프로그램을 실행할 시 카페인 활성화"
+msgstr "전체 화면 앱을 실행할 시 카페인 활성화"
 
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:77
 msgid "Night Light control mode"
@@ -303,11 +303,11 @@ msgstr ""
 
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:97
 msgid "Default width for the preferences window"
-msgstr ""
+msgstr "설정 창의 기본 폭"
 
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:101
 msgid "Default height for the preferences window"
-msgstr ""
+msgstr "설정 창의 기본 높이"
 
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:105
 msgid "Visible position offset of status icon in indicator menu"
